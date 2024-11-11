@@ -15,5 +15,6 @@ oe-core,https://git.openembedded.org/openembedded-core,scarthgap,c00a9a8f25b0042
 OECORELAYERCONF=./sample-files/bblayers.conf.sample
 meta-edgeai,https://git.ti.com/git/edgeai/meta-edgeai.git,scarthgap,10.00.00.04,layers=
 meta-boundary,https://github.com/boundarydevices/meta-boundary.git,scarthgap,3f1b1970b5eef06dbbb39f8343c36a6f0ac5a008,layers=
+meta-summit-radio,https://github.com/LairdCP/meta-summit-radio.git,lrd-12.29.0.x,81215561af2d6332b529e4288113801c7dddc957,layers=meta-summit-radio
 OECORELOCALCONF=./sample-files/local-arago64-v2-ezurio.conf.sample
 BITBAKE_INCLUSIVE_VARS=yes
